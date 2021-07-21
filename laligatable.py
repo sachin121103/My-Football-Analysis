@@ -41,7 +41,6 @@ plt.barh(squads, points, color=teamColours)
 plt.ylim(-1, 21)
 
 plt.rcParams['figure.figsize'] = [15, 10]
-
 plt.grid(True)
 
 plt.show()

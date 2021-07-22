@@ -40,7 +40,13 @@ plt.xlabel("Points", fontsize=14)
 plt.barh(squads, points, color=teamColours)
 plt.ylim(-1, 21)
 
-plt.rcParams['figure.figsize'] = [15, 10]
+
+for index, value in enumerate(points):
+    plt.text(value, index,
+             str(value))
+    
+plt.rcParams['figure.figsize'] = [20, 10]
+
 plt.grid(True)
 
 plt.show()

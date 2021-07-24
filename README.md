@@ -10,3 +10,5 @@ Graph 3: La Liga Table for 2020/21 - Lollipop Chart
 Graphs 4 and 5: Most contributing players for FC Barcelona in 20/21
 
 Graph 6: The best teams in La Liga
+
+Project 1: The Stages of Lionel Messi
